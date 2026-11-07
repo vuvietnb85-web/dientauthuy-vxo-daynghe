@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "MEISTER ETA — Điện tự động hóa",
+      "hasCanvas": false,
+      "bodyTextLen": 2150,
+      "bodyTextHash": "13a1f8993feb7e4cf5044bfb8881e144b8e4b772592828dc2aac0a6fb7ad0a4a",
+      "bodyTextPrefix": "NGAME ETA MEISTER ETA Elektroniker für Automatisierungstechnik ·",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "MEISTER ETA — Điện tự động hóa",
+      "hasCanvas": false,
+      "bodyTextLen": 2150,
+      "bodyTextHash": "13a1f8993feb7e4cf5044bfb8881e144b8e4b772592828dc2aac0a6fb7ad0a4a",
+      "bodyTextPrefix": "NGAME ETA MEISTER ETA Elektroniker für Automatisierungstechnik ·",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
